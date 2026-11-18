@@ -1,0 +1,20 @@
+{
+  "name": "pembelajaran-linux-mastery",
+  "version": "1.0.0",
+  "description": "Platform Pembelajaran Linux Lengkap & Lab Interaktif berbasis Web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "linux",
+    "pembelajaran-linux",
+    "bash",
+    "terminal",
+    "web-terminal",
+    "sysadmin",
+    "devops"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
